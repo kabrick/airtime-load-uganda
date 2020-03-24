@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Load Airtime - Uganda</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="legal">Legal</string>
+    <string name="faq">FAQ</string>
+    <string name="help_section">Help Section</string>
+    <string name="about_app">About App</string>
+    <string name="view_our_site">View Our Site</string>
+    <string name="view_other_apps">View Other Apps</string>
+    <string name="rate_app">Rate App</string>
+    <string name="share_app">Share App</string>
+    <string name="communicate">Communicate</string>
+    <string name="history">History</string>
+    <string name="other_ussd_operations">Other USSD Operations</string>
+    <string name="buy_airtime">Buy Airtime</string>
+    <string name="send_airtime">Send Airtime</string>
+    <string name="scan_airtime_voucher">Scan Airtime Voucher</string>
+    <string name="other">Other</string>
+    <string name="settings">Settings</string>
+</resources>
