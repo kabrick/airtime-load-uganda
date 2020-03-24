@@ -1,1 +1,1 @@
-![Screenshot](home_screen.png)
+![Screenshot](second_screen.png)
